@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Freelancing Opportunities
-- 📫 How to reach me Twitter/TheSpaceDork
+- 📫 How to reach me Twitter/ChuxTreasure
 
 <!---
 TheSpaceDork/TheSpaceDork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
